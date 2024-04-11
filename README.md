@@ -1,9 +1,8 @@
 - 👋 Hi, I’m @j4ham3z
-- 👀 I’m interested in being sigma
 - 🌱 I’m currently not a robot
 - 📫 Reach me on any account that is not this one.
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: this is my school account
+- ⚡ Fun fact: this is my github account for school
 
 <!---
 j4ham3z/j4ham3z is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
