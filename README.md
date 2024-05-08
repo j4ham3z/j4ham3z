@@ -1,7 +1,6 @@
 # I have a website, Check it out [here!](https://j4ham3z.github.io)
 --------------------
 ## some facts about me!!
-- 👋 Hi, I’m @j4ham3z
 - 🌱 I’m currently not a robot
 - 📫 Reach me on any account that is not this one.
 - 😄 Pronouns: he/him
