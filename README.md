@@ -1,10 +1,10 @@
-# I have a website, Check it out [here!](https://j4ham3z.github.io)
+# im that one guy
 --------------------
 ## some facts about me!!
 - 🌱 I’m currently not a robot
-- 📫 Reach me on any account that is not this one.
+- 📫 Reach me on any account that is not this one, please.
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: this is my github account for school
+- 🐸 forg: forg 
 
 <!---
 j4ham3z/j4ham3z is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
